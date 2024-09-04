@@ -1,7 +1,6 @@
-<h1> Congratulation!, You Found Me! :sunglasses: </h1>
-<h4> Recent graduate with a robust background in .NET development. Passionately transitioned from civil
-engineering to software engineering, driven by a love for technology and a relentless pursuit of
-self-improvement in the field. 🦚 </h4>
+<h1> Congratulations!, You Found Me! :sunglasses: </h1>
+<h4> Recent graduate with a robust background in Backend .NET development. Passionately transitioned from civil
+engineering to software engineering 🦚 </h4>
 
 ```rust
 void Main() {
