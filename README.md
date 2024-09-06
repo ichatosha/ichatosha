@@ -4,7 +4,7 @@ engineering to software engineering 🦚 </h4>
 
 ```rust
 void Main() {
-    string[] Skills = ["C#", "Python", "HTML", "CSS", "Angular"];
+    string[] Skills = ["C#", "Python", "HTML", "CSS", "Angular", "LINQ", "APIs", "EF", "JWS", "SQLServer", "MVC", "Postman"];
     MostLoved = skills[0];
     bool isAlive = true;
     while isAlive {
