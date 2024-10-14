@@ -6,11 +6,8 @@ engineering to software engineering 🦚 </h4>
 static void Main()
     {
         string[] Skills = { "C#", "Python", "HTML", "CSS", "Angular", "LINQ", "APIs", "EF", "JWS", "SQLServer", "MVC", "Postman" };
-
         string MostLoved = Skills[0]; 
-
         bool isAlive = true;
-
         while (isAlive) 
         {
             Console.WriteLine("Keep Learning");
