@@ -26,21 +26,21 @@ static void Main()
 ## Find Me :mag:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <!-- CV Badge -->
-    <a href="https://drive.google.com/file/d/1grcbO6QdrS_C4w0GBi8ILoU2jK2C2xnv/view" target="_blank">
-        <img src="https://img.shields.io/badge/-My%20CV-blue?style=for-the-badge&logo=google-drive" alt="My CV">
+    
+<a href="https://drive.google.com/file/d/1grcbO6QdrS_C4w0GBi8ILoU2jK2C2xnv/view" target="_blank">
+        <img src="https://img.shields.io/badge/-My%20CV-red?style=for-the-badge&logo=google-drive" alt="My CV">
     </a>
 
 
 
-    <!-- X (Twitter) Badge -->
+  
 <a href="https://X.com/ichatosha" target="_blank">
         <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x" alt="X">
     </a>
 
 
 
-    <!-- LinkedIn Badge -->
+    
  <a href="https://www.linkedin.com/in/ichatosha/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
