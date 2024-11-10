@@ -5,10 +5,11 @@ engineering to software engineering 🦚 </h4>
 ```rust
 static void Main()
     {
-        string[] Skills = { "C#", "Python", "HTML", "CSS", "Angular", "LINQ", "APIs", "EF", "JWS", "SQLServer", "MVC", "Postman" };
+        string[] Skills = {"C#", "Python", "HTML", "CSS", "Angular", "LINQ", "RESTful APIs",
+                            "EF", "JWT", "SQLServer", "MVC", "ASP.NET Core", "Postman", "Redis"};
         string MostLoved = Skills[0]; 
         bool isAlive = true;
-        while (isAlive) 
+        while (isAlive)
         {
             Console.WriteLine("Keep Learning");
         }
@@ -24,7 +25,8 @@ static void Main()
 ## Find Me :mag:
 
  
- 
+ &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1grcbO6QdrS_C4w0GBi8ILoU2jK2C2xnv/view?usp=sharing)*
+ <br/>
  [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.fb.com/ichatosha)
  <br/>
  [![X](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://X.com/ichatosha)
