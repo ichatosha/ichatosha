@@ -28,11 +28,11 @@ static void Main()
  <a href="https://drive.google.com/file/d/1grcbO6QdrS_C4w0GBi8ILoU2jK2C2xnv/view" target="_blank">
     <img src="https://img.shields.io/badge/-My%20CV-blue?style=for-the-badge&logo=google-drive" alt="My CV">
       <br/>
+
+    </a>
  [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.fb.com/ichatosha)
  <br/>
  [![X](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://X.com/ichatosha)
  <br/>
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ichatosha/)
-    </a>
-
 
