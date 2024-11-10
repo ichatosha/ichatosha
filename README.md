@@ -25,7 +25,7 @@ static void Main()
 ## Find Me :mag:
 
  
- &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1grcbO6QdrS_C4w0GBi8ILoU2jK2C2xnv/view?usp=sharing)*
+ [![My CV](https://drive.google.com/file/d/1grcbO6QdrS_C4w0GBi8ILoU2jK2C2xnv/view?usp=sharing)
  <br/>
  [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.fb.com/ichatosha)
  <br/>
