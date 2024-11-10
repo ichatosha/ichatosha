@@ -16,17 +16,18 @@ static void Main()
     }
 ```
 ## Skills :fire:
- ![.NET](https://img.shields.io/badge/--239120?style=flat-square&logo=.net)
- ![HTML](https://img.shields.io/badge/-white?style=flat-square&logo=html5)
- ![CSS3](https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3)
- ![Angular](https://img.shields.io/badge/-red?style=flat-square&logo=angular)
- 
+<p>
+        <img src="https://img.shields.io/badge/--239120?style=flat-square&logo=.net" alt=".NET">
+        <img src="https://img.shields.io/badge/-white?style=flat-square&logo=html5" alt="HTML">
+        <img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3" alt="CSS3">
+        <img src="https://img.shields.io/badge/-red?style=flat-square&logo=angular" alt="Angular">
+    </p>
         
 ## Find Me :mag:
 
  <a href="https://drive.google.com/file/d/1grcbO6QdrS_C4w0GBi8ILoU2jK2C2xnv/view" target="_blank">
     <img src="https://img.shields.io/badge/-My%20CV-blue?style=for-the-badge&logo=google-drive" alt="My CV">
-</a>
+    </a>
 
  <br/>
  [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.fb.com/ichatosha)
