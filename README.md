@@ -27,7 +27,7 @@ static void Main()
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     
-<a href="https://drive.google.com/file/d/11AtCljAzqMDiVFTv1srDeybSx_NNgSRy/view" target="_blank">
+<a href="https://drive.google.com/file/d/1nCr8-mC5lobwgXEIcRKOkSiLpKSN8Oob/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/-My%20CV-red?style=for-the-badge&logo=google-drive" alt="My CV">
     </a>
   
